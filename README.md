@@ -1,4 +1,4 @@
-# Card Design - Power Platform Canvas App
+# -CatalogueApp - Power Platform Canvas App
 
 A demo Power Apps Canvas App showcasing the **card design** UI pattern, provided by [Novalogix](https://www.youtube.com/@Novalogix-ltd) as a companion to a YouTube tutorial video.
 
