@@ -5,7 +5,7 @@ A demo Power Apps Canvas App showcasing the **card design** UI pattern, provided
 ## Video Tutorial
 
 <!-- TODO: Replace the link below with the actual YouTube video URL -->
-[![Watch the tutorial on YouTube](https://img.youtube.com/vi/S3AxY1aNIDI/maxresdefault.jpg)](https://youtu.be/S3AxY1aNIDI)
+[![Watch the tutorial on YouTube](https://img.youtube.com/v=nDglSzyTjrk/maxresdefault.jpg)](https://youtu.be/nDglSzyTjrk)
 
 ## Prerequisites
 
